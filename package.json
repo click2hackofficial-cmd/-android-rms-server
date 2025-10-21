@@ -1,4 +1,3 @@
-// package.json
 {
   "name": "android-rms-server-panel",
   "version": "1.0.0",
@@ -9,7 +8,7 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "pg": "^8.11.3",  // ★★★ sqlite3 को pg से बदलें ★★★
+    "pg": "^8.11.3",
     "ejs": "^3.1.9"
   }
 }
